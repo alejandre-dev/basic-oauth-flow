@@ -1,6 +1,6 @@
-#Shopify OAuth flow 101
+# Shopify OAuth flow 101
 Simple express app that shows how Shopify's OAuth flow process works 
-##Setup Local Development
+## Setup Local Development
 1. Clone this repo
 2. Create a Shopify App inside the Partner Dashboard and use the Shopify API Key and API secret key for local development.
 3. Rename `.env.example` to `.env` and fill in values
